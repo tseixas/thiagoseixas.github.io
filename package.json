@@ -2,7 +2,7 @@
   "name": "thiagooseixas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thiagoseixas.github.io",
+  "homepage": "https://tseixas.github.io/thiagoseixas.github.io/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
