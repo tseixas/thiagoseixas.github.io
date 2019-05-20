@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thiagoseixas.github.io/static/css/main.618972e4.chunk.css",
-    "main.js": "/thiagoseixas.github.io/static/js/main.da0e7d6a.chunk.js",
-    "main.js.map": "/thiagoseixas.github.io/static/js/main.da0e7d6a.chunk.js.map",
-    "runtime~main.js": "/thiagoseixas.github.io/static/js/runtime~main.0ba501df.js",
-    "runtime~main.js.map": "/thiagoseixas.github.io/static/js/runtime~main.0ba501df.js.map",
-    "static/js/2.3310f33a.chunk.js": "/thiagoseixas.github.io/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/thiagoseixas.github.io/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/thiagoseixas.github.io/index.html",
-    "precache-manifest.fe5f63f2b5fbf3c476c780cefc4a2877.js": "/thiagoseixas.github.io/precache-manifest.fe5f63f2b5fbf3c476c780cefc4a2877.js",
-    "service-worker.js": "/thiagoseixas.github.io/service-worker.js",
-    "static/css/main.618972e4.chunk.css.map": "/thiagoseixas.github.io/static/css/main.618972e4.chunk.css.map"
+    "main.css": "/resume/static/css/main.618972e4.chunk.css",
+    "main.js": "/resume/static/js/main.b17c312e.chunk.js",
+    "main.js.map": "/resume/static/js/main.b17c312e.chunk.js.map",
+    "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
+    "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
+    "static/js/2.3310f33a.chunk.js": "/resume/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/resume/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.ac9a0512d5ed1addc6685e0b957dc10f.js": "/resume/precache-manifest.ac9a0512d5ed1addc6685e0b957dc10f.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.618972e4.chunk.css.map": "/resume/static/css/main.618972e4.chunk.css.map"
   }
 }
