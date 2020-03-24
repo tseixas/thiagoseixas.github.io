@@ -1,15 +1,14 @@
-import React from 'react';
-//import Routes from './routes';
+import React from "react";
 
-import './styles.css';
+import "./styles.css";
 
-import Header from './components/Header';
-import Profile from './components/Profile';
-import Language from './components/Language';
-import Skill from './components/Skill';
-import Experience from './components/Experience';
-import Education from './components/Education';
-import Course from './components/Course';
+import Course from "./components/Course";
+import Education from "./components/Education";
+import Experience from "./components/Experience";
+import Header from "./components/Header";
+import Language from "./components/Language";
+import Profile from "./components/Profile";
+import Skill from "./components/Skill";
 
 const App = () => (
   <div className="App container">
