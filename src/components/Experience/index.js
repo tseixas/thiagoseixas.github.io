@@ -1,9 +1,8 @@
-import React from 'react';
+import React from "react";
 
-import './styles.css';
+import "./styles.css";
 
 const Experience = () => (
-
   <div id="experience">
     <h4>
       <span className="badge badge-pill badge-dark">
@@ -14,10 +13,34 @@ const Experience = () => (
     <hr />
 
     <div className="row">
-
       <div className="col-3">
         <span>
-          <strong>09/2018 - Atualmente</strong>
+          <strong>07/2019 - Atualmente</strong>
+        </span>
+      </div>
+      <div className="col-9">
+        <span>
+          <strong>Desenvolvedor de Software</strong>
+        </span>
+        <br />
+        <span>
+          <i> Riosoft Instituto de Tecnologia </i>
+        </span>
+        <br />
+        <div className="mt-3">
+          <p>
+            Desenvolvimento de sistema web para gestāo de documentos fiscais e
+            monitoramento de dispositivos. Utilizando Python(Flask), VueJS,
+            Vuetify e PostgreSQL.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div className="row">
+      <div className="col-3">
+        <span>
+          <strong>09/2018 - 06/2019</strong>
         </span>
       </div>
       <div className="col-9">
@@ -31,17 +54,16 @@ const Experience = () => (
         <br />
         <div className="mt-3">
           <p>
-            Desenvolvimento de sistema para controle e gerenciamento de Ingresso de Mercadoria Nacional
-            para a Zona Franca de Manaus. Neste projeto foram utilizadas as seguintes
-            tecnologias: Angular 4, Bootstrap 3, C# e SQLServer.
+            Desenvolvimento de sistema para controle e gerenciamento de Ingresso
+            de Mercadoria Nacional para a Zona Franca de Manaus. Neste projeto
+            foram utilizadas as seguintes tecnologias: Angular 4, Bootstrap 3,
+            C# e SQLServer.
           </p>
         </div>
       </div>
-
     </div>
 
     <div className="row">
-
       <div className="col-3">
         <span>
           <strong>05/2017 - 09/2018</strong>
@@ -58,30 +80,27 @@ const Experience = () => (
         <br />
         <div className="mt-3">
           <p>
-            Desenvolvimento de sistema para meios de pagamentos via terminal POS utilizando as seguintes
-            tecnologias AngularJS, Node.JS,
-            Python, Bootstrap.
-                      </p>
+            Desenvolvimento de sistema para meios de pagamentos via terminal POS
+            utilizando as seguintes tecnologias AngularJS, Node.JS, Python,
+            Bootstrap.
+          </p>
 
           <p>
-            Desenvolvimento e manutenção de sistema de compra de terminais POS(maquininhas de cartão)
-            utilizando PHP com o framework
-            PrestaShop e Python.
-                      </p>
+            Desenvolvimento e manutenção de sistema de compra de terminais
+            POS(maquininhas de cartão) utilizando PHP com o framework PrestaShop
+            e Python.
+          </p>
 
           <p>
-            Desenvolvimento de sistema web para integração de produtos em Marketplaces, utilizando HTML,
-            CSS, Bootstrap, Javascript,
-            Jquery, PHP(Laravel), MySQL e MongoDB. SCRUM como metodologia ágil.
-                      </p>
-
+            Desenvolvimento de sistema web para integração de produtos em
+            Marketplaces, utilizando HTML, CSS, Bootstrap, Javascript, Jquery,
+            PHP(Laravel), MySQL e MongoDB. SCRUM como metodologia ágil.
+          </p>
         </div>
       </div>
-
     </div>
 
     <div className="row mt-3">
-
       <div className="col-3">
         <span>
           <strong>03/2017 - 05/2017</strong>
@@ -97,16 +116,14 @@ const Experience = () => (
         </span>
         <br />
         <p className="mt-3">
-          Desenvolvimento de sistema para construção de websites com AngularJS e Node.js. Manutenção em
-          sistema e-commerce em PHP usando
-          o framework PrestaShop.
-                    </p>
+          Desenvolvimento de sistema para construção de websites com AngularJS e
+          Node.js. Manutenção em sistema e-commerce em PHP usando o framework
+          PrestaShop.
+        </p>
       </div>
-
     </div>
 
     <div className="row mt-3">
-
       <div className="col-3">
         <span>
           <strong>12/2014 - 04/2016</strong>
@@ -122,16 +139,15 @@ const Experience = () => (
         </span>
         <br />
         <p className="mt-3">
-          Desenvolvimento do sistema de Gerenciamento e controle de energia elétrica para concessionárias
-          de energia utilizando Python(Django),
-          HTML, Bootstrap, Javascript, AngularJS. Além de SCRUM como metodologia ágil.
-                    </p>
+          Desenvolvimento do sistema de Gerenciamento e controle de energia
+          elétrica para concessionárias de energia utilizando Python(Django),
+          HTML, Bootstrap, Javascript, AngularJS. Além de SCRUM como metodologia
+          ágil.
+        </p>
       </div>
-
     </div>
 
     <div className="row mt-3">
-
       <div className="col-3">
         <span>
           <strong>10/2013 - 03/2014</strong>
@@ -143,18 +159,18 @@ const Experience = () => (
         </span>
         <br />
         <span>
-          <i> Conselho Regional de Engenharia e Agronomia do Amazonas - CREA – AM </i>
+          <i>
+            {" "}
+            Conselho Regional de Engenharia e Agronomia do Amazonas - CREA – AM{" "}
+          </i>
         </span>
         <br />
         <p className="mt-3">
-          Auxílio no desenvolvimento do sistema de controle e gerenciamento de fiscalizações e inspetorias
-          utilizando PHP e banco de
-          dados MySQL.
-                    </p>
+          Auxílio no desenvolvimento do sistema de controle e gerenciamento de
+          fiscalizações e inspetorias utilizando PHP e banco de dados MySQL.
+        </p>
       </div>
-
     </div>
-
   </div>
 );
 
